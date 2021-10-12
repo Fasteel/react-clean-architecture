@@ -1,0 +1,1 @@
+type Todos = Array<Todo>;
